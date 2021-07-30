@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Ana Paula
 
 - 🔭 Hoje trabalho como Analista de Teste - QA
-- 🌱 Estudando JavaScript
+- 🌱 Estudando HTML, CSS e JavaScript
 - 😄 Pronomes: ela/dela
 
 <div>
