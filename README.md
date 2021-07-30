@@ -1,8 +1,8 @@
 ### Oiii! Eu sou a Ana Paula
 
-- 🔭 Hoje trabalho como Analista de Teste - QA
-- 🌱 Estudando HTML, CSS e JavaScript
-- 😄 Pronomes: ela/dela
+- 🧐 Hoje trabalho como Analista de Teste - QA
+- 🐱‍💻 Estudando HTML, CSS e JavaScript
+- 🗯 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/anapaulalange">
