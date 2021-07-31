@@ -2,7 +2,7 @@
 
 - 🧐 Hoje trabalho como Analista de Teste - QA
 - 🐱‍💻 Estudando HTML, CSS e JavaScript
-- 🗯 Pronomes: ela/dela
+- 🟡 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/anapaulalange">
