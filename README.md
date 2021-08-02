@@ -1,6 +1,6 @@
 ### Oiii! Eu sou a Ana Paula 👋
 
-- 🧐 Hoje trabalho como Analista de Testes - QA
+- 🧐 Hoje trabalho como Analista de Teste - QA
 - 🐱‍💻 Estudando JavaScript
 - 🟡 Pronomes: ela/dela
 
