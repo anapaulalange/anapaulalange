@@ -1,4 +1,6 @@
-### Oiii! Eu sou a Ana Paula
+### Oiii! Eu sou a Ana Paula 👋
+
+Sejam bem - vindes!
 
 - 🧐 Hoje trabalho como Analista de Teste - QA
 - 🐱‍💻 Estudando JavaScript
