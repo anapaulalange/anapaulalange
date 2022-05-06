@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Ana Paula 👋
 
-- 🧐 Hoje trabalho como Analista de Teste | Quality Assurance
-- 🐱‍💻 Estudando a linguagem: Java
+- 🧐 Hoje trabalho como Analista de Teste  
+- 🐱‍💻 Estudando a linguagem: Javascript
 - 🟡 Pronomes: ela/dela
 
 <div>
