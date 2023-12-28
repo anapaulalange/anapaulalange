@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Ana Paula 👋
 
 - 🧐 Hoje trabalho como Analista de Testes de Software 
-- 🐱‍💻 Estudando a linguagem JavaScript e conceitos de tech writing
+- 🐱‍💻 Estudando a linguagem JavaScript e conceitos de Tech Writing
 - 🟡 Pronomes: ela/dela
 
  <div> 
