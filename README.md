@@ -1,7 +1,7 @@
 ### Oiii! Eu sou a Ana Paula 👋
 
 - 🧐 Hoje trabalho como Analista de Qualidade de Software 
-- 🟡 Postman | Cypress 
+- 🟡 Cypress | Postman 
 - 🟡 Pronomes: ela/dela
 
  <div> 
