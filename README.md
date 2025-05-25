@@ -1,8 +1,7 @@
-### Oiii! Eu sou a Ana Paula 👋
+### I'm Ana Paula and I've been working in tech since 2021.👋
 
-- 🧐 Hoje trabalho como Analista de Qualidade de Software 
+- 🧐 I work as Quality Assurance Analisty - QA
 - 🟡 Cypress | Postman 
-- 🟡 Pronomes: ela/dela
 
  <div> 
      
