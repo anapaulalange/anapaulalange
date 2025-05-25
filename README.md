@@ -1,7 +1,7 @@
 ### I'm Ana Paula and I've been working in tech since 2021.👋
 
 - 🧐 I work as Quality Assurance Analisty - QA
-- 🟡 Cypress | Postman 
+- 🟡 Cypress | Javascript 
 
  <div> 
      
