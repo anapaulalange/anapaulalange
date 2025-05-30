@@ -1,6 +1,6 @@
 ### I'm Ana Paula and I've been working in tech since 2021.👋
 
-- 🧐 Mid Level Quality Assurance Analisty - QA
+- 🧐 Mid-Level Quality Assurance Analisty - QA
 - 🟡 Cypress | Javascript 
 
  <div> 
